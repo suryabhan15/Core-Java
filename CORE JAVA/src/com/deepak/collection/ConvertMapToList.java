@@ -15,6 +15,7 @@ public class ConvertMapToList {
 		map.put("Deepak", 28);
 		map.put("Ankit", 25);
 		map.put("Abhilash", 26);
+		map.put("swarup", 45);
 		map.put("Sumit", 25);
 		Set<String> s = map.keySet();
 		Set entry = map.entrySet();
